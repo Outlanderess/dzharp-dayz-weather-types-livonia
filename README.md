@@ -23,6 +23,7 @@ These are the weather files I use and edit for the server. -
 **ALWAYS validate your files after making even minor edits.**
 
 2. Descriptions
+
 Here are descriptions of what each file will be like.
 
 SPRING
