@@ -43,7 +43,7 @@ WINTER
 Lots of white/grey clouds, lots of fog and snow without much wind.
 
 3. Editing
-4. 
+
 If you want to edit the files with ease for different results here are some simple changes.
 
 - Set the limits min & limits max of the "overcast" weather and set the threshold of the rain to overlap, meaning it will rain more or less often.
